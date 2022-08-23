@@ -1,4 +1,6 @@
-# UX Portfolio
+# Jeeno Thongsavat's Portfolio
+
+{Insert Picture Here}
 
 
 ## UX Team Project
