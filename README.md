@@ -11,4 +11,4 @@ https://usabilityengineering.github.io/song-snippet/
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Journal 1](j01/)
