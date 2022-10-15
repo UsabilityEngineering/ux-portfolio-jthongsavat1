@@ -4,7 +4,7 @@
 
 On a recent trip during the summer I traveled to San Jose for CRX 2022. During my stay, I had the pleasure of visiting many different places around town while also attending the convention. On one of my trips around town, I had used Google Maps to help find restaurants that I could eat at as I was getting hungry walking around town all day. So my friend and I, who had come along for the trip, decided on a restaurant called Mochinut as it also had many other restaurants surrounding it within a marketplace.
 
-![Picture of Mochinut](/assets/UXJournalCounter.jpg)
+![Picture of Mochinut](/assets/UX_Journal_Counter.jpg)
 
 When arriving at the marketplace, we quickly realized that it was not your average restaurant. There were no workers at the counter who would take our orders! There were workers who were making the food, but the counter was left unmanned. As I approached the counter, I noticed a terminal that was asking us to take our order. I quickly realized that it was a self-order terminal and that the whole marketplace had the same set-up.
 
