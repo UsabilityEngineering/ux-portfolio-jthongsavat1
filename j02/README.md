@@ -12,6 +12,6 @@ I downloaded the app on my Ipad, logged in with my CSU Chico account, and went a
 
 The process of creating the logo at this point was so much easier and I made a significant jump in progress compared to how I was an hour ago. I could just copy and paste the shapes and edit them how I see fit. Using the tool where I could edit the points around the shape I was able to make shapes that I couldn’t even dream of trying to draw by hand at that point. I start to feel a lot more confident that I could actually finish this a lot quicker than I thought. After working on it for a couple more minutes and debating back and forth if there should be anything else I add. I finally came up with a design that I am happy with. I am pretty proud of myself for coming up with a design and learning how to use this application. 
 
-![Finished Logo](../assets/KamenRiderLogo.png)
+![Finished Logo](../assets/KamenRiderLogo.PNG)
 
 The process of trying to use Adobe Illustrator for the first time was honestly pretty frustrating and tedious. I am quite sure I am not within the target market for using applications such as this, since I have no artistic background whatsoever. Luckily, the application was pretty **Error Tolerant**, having an undo button greatly helped me out when trying to draw. Trying to navigate the buttons and figure out what they do was pretty much trial and error. I was guessing what buttons did what and learning as I went. After struggling for hours with much frustration, I was met with a satisfying ending. 
